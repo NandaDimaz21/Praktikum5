@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Praktikum5</string>
+    <string name="asal">Masukkan Asal</string>
+    <string name="tujuan">Masukkan Tujuan</string>
+    <string name="path">Cari Jalan</string>
+    <string name="jarak">Jarak Tempuh</string>
+    <string name="km">0 km</string>
+    <string name="waktu">Waktu Tempuh</string>
+    <string name="min">0 min</string>
+</resources>
